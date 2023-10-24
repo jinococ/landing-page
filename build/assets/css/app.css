@@ -1,0 +1,21 @@
+body {
+  font-family: UniversLTCYR;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page-content {
+  height: 100dvh;
+  overflow: hidden;
+}
+.page-content img {
+  object-fit: cover;
+  width: 100%;
+}
